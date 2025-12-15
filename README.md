@@ -134,7 +134,7 @@ To predict **user retention**, MOS was transformed into a binary target:
 ## 📄 Report & Code
 
 - **Project Report:**  
-  [Analysis of Quality of Experience in Video Streaming](docs/Analysis_of_Quality_of_Experience_in_Video_Streaming.pdf)
+  [Analysis of Quality of Experience in Video Streaming](docs/Analysis_of_Quality_of_Experience_in_Video_Streaming Report.pdf)
  
 
 - **Code Repository:**  
